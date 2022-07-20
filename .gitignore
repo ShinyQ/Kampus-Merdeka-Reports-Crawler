@@ -1,3 +1,5 @@
 .env
 Daily Report.csv
 Weekly Report.csv
+*.csv
+*.xlsx
